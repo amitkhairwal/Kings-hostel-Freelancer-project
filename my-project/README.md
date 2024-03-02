@@ -1,0 +1,21 @@
+28.608760286529588, 77.0315595772041
+
+DEEN DAYAL UPADHYAYA COLLEGE-1
+Plot 45A, Old Palam Road
+opposite NSUT
+Raju Enclave, Dwarka
+Delhi, 110078
+India
+
+ChIJUUfyb4cFDTkRTnusfvlNFtU
+AIzaSyBcv0QfUNUfBwo8pIGJ3teNCkaluSGUWus
+
+
+
+KgGSLQgCsh51tFVmI87LpwPHF3Q9xOUTlk4rv048Rg0
+
+Diebs32gZ5UEK1kji0oW
+
+
+
+/addImageInGallery

@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "65d92258bf8ed954bcdfe361"
+  },
+  "name": "badroom",
+  "description": "bedroom location",
+  "image": [
+    "https://lh3.googleusercontent.com/p/AF1QipOsgxJn1lR7nPespEaRE_WVZTXPcAddz1rM3_pE=w1080-h608-p-k-no-v0"
+  ],
+  "createdAt": {
+    "$date": "2024-02-23T22:55:20.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T22:55:20.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d922c0bf8ed954bcdfe365"
+  },
+  "name": "Bedroom ",
+  "description": "2nd room",
+  "image": [
+    "https://lh3.googleusercontent.com/p/AF1QipOPqfyOw_10fjDiYFpGmItSWxktsoUhicNiamvB=w768-h768-n-o-v1"
+  ],
+  "createdAt": {
+    "$date": "2024-02-23T22:57:04.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T22:57:04.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d92356bf8ed954bcdfe369"
+  },
+  "name": "hall",
+  "description": "rooms",
+  "image": [
+    "https://lh3.googleusercontent.com/p/AF1QipNvKfAl-9nVCkE8ajscEmo4sD87WIeYcWDDuTYM=w768-h768-n-o-v1"
+  ],
+  "createdAt": {
+    "$date": "2024-02-23T22:59:34.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T22:59:34.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d92383bf8ed954bcdfe36d"
+  },
+  "name": "bathroom",
+  "description": "bathroom",
+  "image": [
+    "https://lh3.googleusercontent.com/p/AF1QipPvP75KcYTsw_8WNis364KgDOOERQ0s0MDepqve=w768-h768-n-o-v1"
+  ],
+  "createdAt": {
+    "$date": "2024-02-23T23:00:19.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T23:00:19.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d965915a2f084d24b5dd76"
+  },
+  "name": "Time Table",
+  "description": "meal plan",
+  "image": [
+    "https://lh5.googleusercontent.com/p/AF1QipPQHsskDc_4woJf-guwVvwj0prpPIWlYkObXv9F=s640-p-k-no"
+  ],
+  "createdAt": {
+    "$date": "2024-02-24T03:42:09.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-24T03:42:09.815Z"
+  },
+  "__v": 0
+}]
